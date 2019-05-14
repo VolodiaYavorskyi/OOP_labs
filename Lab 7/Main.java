@@ -25,7 +25,7 @@ public class Main {
 		Scheduler scheduler = new Scheduler();
 		scheduler.setEvents(new LinkedList<Event>());
 		
-		System.out.println("Volodymyr Yavorskyi | CS-109 | Lab 3 | #14");
+		System.out.println("Volodymyr Yavorskyi | CS-109 | Lab 7 | #14");
 		System.out.println();
 		System.out.println("Hello!");
 		

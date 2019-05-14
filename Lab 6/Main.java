@@ -7,6 +7,10 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		long maxTime, startTime;
+		
+		System.out.println("Volodymyr Yavorskyi | CS-109 | Lab 6 | #14");
+		System.out.println();
+
 		System.out.print("Maximum time in seconds: ");
 		maxTime = scan.nextInt() * 1000;
 		scan.close();
